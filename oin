@@ -1,0 +1,83 @@
+[33mcommit 9bb4193d0a8ec922d57a5c9fa4e0e5cbf34e93b3[m
+Author: jordanblakey <jordan@jordanblakey.com>
+Date:   Wed Jan 4 09:08:17 2017 -0600
+
+    Quick commit.
+
+[33mcommit 3bb80aa29408a0b5aadfbd9d03196d0839d96e13[m
+Merge: fac674a 30cf5a0
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:53:30 2016 -0600
+
+    Merge pull request #2 from jordanblakey/css-stylin
+    
+    Css stylin
+
+[33mcommit 30cf5a0d47d1496fb66d8427c7b1b7cea0fe231f[m
+Merge: d9e80d8 fac674a
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:52:33 2016 -0600
+
+    Preparing for pull request.
+
+[33mcommit d9e80d89da70b7a15ec31f1ae0e7517718859481[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:50:51 2016 -0600
+
+    Testing pull request.
+
+[33mcommit fac674a6de9c61c8f4a40ccb07379e0bb07aa56b[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:48:29 2016 -0600
+
+    Update styles.css
+
+[33mcommit 159c01e080515f89d81be43e7ad7b74720cc0ee2[m
+Merge: 9d1262a 4817ac9
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:42:46 2016 -0600
+
+    Committing merged files.
+
+[33mcommit 9d1262ad69745681d17db99d52f2f8aa4fc7b182[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:39:49 2016 -0600
+
+    Why can't GitHub see this branch I wonder?
+
+[33mcommit 4817ac93e04b8f82339ad6647a37adda92560c79[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:35:45 2016 -0600
+
+    SEND ALL ON MASTER NO SUBTLETY!!!
+
+[33mcommit 128d69edc9569d93298c5a1a005899ea7b0d883f[m
+Merge: 5987726 bc6f207
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:34:15 2016 -0600
+
+    Merge branch 'refs/heads/css-stylin'
+
+[33mcommit bc6f207a652843e0fd6a19f05440184a6ffb9da2[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:32:11 2016 -0600
+
+    Second commit on css-branch.
+
+[33mcommit 7a5100c2ecbce25d5930bdb83fe8b277ca53148b[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:29:04 2016 -0600
+
+    Doing some design work on a new branch.
+
+[33mcommit 59877269cc2a5aa7e5a7b845285ede11286a18e4[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:12:05 2016 -0600
+
+    Update README.md
+
+[33mcommit 508a55eb874c0fd62ff3ff77999b6712e7f3b283[m
+Author: Jordan Blakey <jordan@jordanblakey.com>
+Date:   Fri Dec 16 08:05:30 2016 -0600
+
+    Initial Commit Message

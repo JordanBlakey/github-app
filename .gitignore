@@ -32,6 +32,7 @@ coverage
 build/Release
 
 # Dependency directories
+node_modules
 
 # Optional npm cache directory
 .npm
@@ -72,4 +73,3 @@ $RECYCLE.BIN/
 *.lnk
 
 # End of https://www.gitignore.io/api/node,windows
-
